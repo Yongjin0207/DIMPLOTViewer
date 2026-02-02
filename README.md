@@ -126,7 +126,7 @@ Common options:
 Example
 
 -----
-python3 drw_final_complete_rotate.py example.drw --out example.html \
+python3 DIMPLOTViewer.py example.drw --out example.html \
   --x_expand 1.6 --relax_iters 400 --relax_gap_px 16 --focus_r 50
 
 -----
