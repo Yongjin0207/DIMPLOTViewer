@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1147813122.svg)](https://doi.org/10.5281/zenodo.18480408)
+
 # DIMPLOTViewer
 -----
 
